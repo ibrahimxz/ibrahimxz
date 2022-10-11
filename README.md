@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimxz&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimxz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimxz" alt="ibrahimxz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ibrahimhz" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimhz?logo=twitter&style=for-the-badge" alt="ibrahimhz" /></a> </p>
 
 - 🔭 I’m currently working on **WorkFlow Management System**
 
